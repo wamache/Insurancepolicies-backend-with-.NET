@@ -35,3 +35,5 @@ Build and run:
 	dotnet build
 	dotnet run
 
+Test APIs:
+localhost:5138/swagger/
